@@ -1,0 +1,7 @@
+{
+  "name": "AI Braille Transcriber",
+  "description": "A minimal application that uses AI to transcribe spoken words into text and then translates that text into Braille in real-time. Users hold the spacebar to speak.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
